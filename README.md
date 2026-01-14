@@ -20,7 +20,9 @@ Syllabus: [Syllabus 2026](/Syllabus2.pdf)
 [Lec1](/Lec1/Lec1.pdf) \
 [Lec 1 Notebook](/Lec1/Lec1_Bayesian_Modeling.ipynb)
 
-Reading: [2. Probability: Univariate Models by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
+Reading: Chapters 1 and 2 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/BayesBook.pdf)\
+Probability refresher material related to "Math for machine learning": [Prince, Simon J.D. (2025). Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+
 
 ---
 ### [Topic 2 Bayesian Inference for Gaussians, Bayesian linear and logistic regression](/Lec02)
