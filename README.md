@@ -27,7 +27,14 @@ Probability refresher material related to "Math for machine learning": [Prince, 
 ---
 ### [Topic 2 Bayesian Inference for Gaussians, Bayesian linear and logistic regression](/Lec02)
 **Lecture**  
-[Lec 2 Notebook](/Lec02/Lec%202%20Linear%20models.ipynb)
+[Gaussian Formulas](/Lec2/GaussianFormulas.pdf) \
+[Lec2 Gaussian Estimates](/Lec2/GaussianModels.pdf) \
+[Lec2 Bayesian Linear regression - from slide 19 by prof. Rao](/Lec2/tpmi_w19_lec5_slides_print.pdf) \
+[Lec2 Bayesian Logistic regression - from slide 19 by prof. Rao](/Lec2/tpmi_w19_lec6_slides_print) \
+[Lec 1 Notebook](/Lec1/Lec1_Bayesian_Modeling.ipynb)
+
+Reading: Chapters 2, 3.3, 5, 8.2 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/BayesBook.pdf)\
+
 
 
 **Additional Material**\
