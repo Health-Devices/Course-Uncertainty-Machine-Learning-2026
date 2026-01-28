@@ -44,7 +44,7 @@ Code: [Lec 2 Notebook1](/Lec2/Gaussian_Models_Final.ipynb) \
 **Lecture**  
 [Lec3 Bayesian Logistic regression](/Lec3/LogisticRegression.pdf) \
 [Lec3 MCMC](/Lec3/MCMC.pdf) \
-[Lec3 Langevin Monte Carlo](/Lec3/Langevin_MC.pdf) \
+[Lec3 Langevin Monte Carlo](/Lec3/LangevinMC.pdf) 
 
 Reading: Chapters 8.2 and 10 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/BayesBook.pdf)\
 [Roy Friedman, A Simplified Overview of Langevin Dynamics, 2022.](https://friedmanroy.github.io/blog/2022/Langevin/)
