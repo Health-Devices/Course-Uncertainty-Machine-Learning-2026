@@ -67,9 +67,9 @@ Code: [Lec 4 Notebook1: Kalman Filters](/Lec4/ssm_examples.ipynb) \
 [Kalman and Bayesian Filters in Python by Roger Labbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 Reading:
-Chapters 17 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/BayesBook.pdf)\
 [Bayesian Filtering and Smoothing by Simo Sarkka, chapters 4 and 7](https://users.aalto.fi/~ssarkka/pub/cup_book_online_20131111.pdf)\
 [Kalman and Bayesian Filters in Python by Roger Labbe](https://drive.google.com/file/d/0By_SW19c1BfhSVFzNHc0SjduNzg/view?resourcekey=0-41olC9ht9xE3wQe2zHZ45A)
+
 ---
 ### Support or Contact
 [Miodrag Bolic email ](mailto:mbolic@site.uottawa.ca)
