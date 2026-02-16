@@ -74,10 +74,10 @@ Chapters 17 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.c
 **Lecture**  
 [Lec5 Variational inference](/Lec5/VariationalInference.pdf)
 
-Code: [Lec 5 Notebook1: VI](/Lec5/From_entropy_to_ADVI.ipynb) \
+Code: [Lec 5 Notebook1: VI](/Lec5/From_entropy_to_SVI.ipynb) \
 [Stochastic Variational Inference with NumPyro](https://phuijse.github.io/BLNNbook/chapters/variational/svi.html)
 
-Reading:
+Reading: 
 
 
 ---
