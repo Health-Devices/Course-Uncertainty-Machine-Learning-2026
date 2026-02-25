@@ -77,9 +77,20 @@ Chapters 17 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.c
 Code: [Lec 5 Notebook1: VI](/Lec5/From_entropy_to_SVI.ipynb) \
 [Stochastic Variational Inference with NumPyro](https://phuijse.github.io/BLNNbook/chapters/variational/svi.html)
 
-Reading: 
+Reading:
 
+---
+## [Topic 6 Variational Autoencoders and Bayesian Neural Networks](/Lec6)
+**Lecture**  
+[Lec6 Neural Networks as Parameterizers of Probability Distributions](/Lec6/NN_Parameterization.pdf) \
+[Lec6 Variational autoencoders](/Lec6/VAE.pdf) \
+[Lec6 Bayesian neural networks](/Lec6/BNN.pdf)
 
+Code: [Lec 6 Notebook1: NN Parameterization Notebook](/Lec6/NN_Parameterization_Notebook.ipynb) \
+[Lec 6 Notebook2: VAE for Breathing Anomaly Detection](/Lec6/VAE_Breathing_Anomaly.ipynb) and [Slides](/Lec6/VAE_Breathing_Anomaly.pdf) \
+[Lec 6 Notebook3: BNN Notebook](/Lec6/Bnn_notebook.ipynb) 
+
+Reading: An Introduction to Variational Autoencoder by D.P. Kingma and M. Welling.
 ---
 ### Support or Contact
 [Miodrag Bolic email ](mailto:mbolic@site.uottawa.ca)
