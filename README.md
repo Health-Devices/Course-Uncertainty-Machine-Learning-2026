@@ -94,8 +94,8 @@ Reading: An Introduction to Variational Autoencoder by D.P. Kingma and M. Wellin
 [Variational Autoencoder](https://phuijse.github.io/BLNNbook/chapters/neural_networks/vae.html), chapter from Bayesian Learning and Neural Networks by Pablo Huijse. \
 [Bayesian Neural Networks with numpyro](https://phuijse.github.io/BLNNbook/chapters/neural_networks/bayesian.html), chapter from Bayesian Learning and Neural Networks by Pablo Huijse. \
 [DPM 2 - Variational Inference for Deep Continuous LVMs](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/DL2/deep_probabilistic_models_II/tutorial_2b.html) by Wilker Aziz.
----
 
+---
 ## [Topic 7 Calibration and Conformal Prediction](/Lec7)
 **Lecture**  
 [Lec7 Calibration](/Lec7/Calibration.pdf) \
