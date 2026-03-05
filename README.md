@@ -98,7 +98,7 @@ Reading: An Introduction to Variational Autoencoder by D.P. Kingma and M. Wellin
 ---
 ## [Topic 7 Calibration and Conformal Prediction](/Lec7)
 **Lecture**  
-[Lec7 Proper Scoring Rules and Calibration](/Lec7/Proper_Scoring_Rules_and_Calibrationn.pdf) \
+[Lec7 Proper Scoring Rules and Calibration](/Lec7/Proper_Scoring_Rules_and_Calibration.pdf) \
 [Lec7 Conformal Prediction](/Lec7/Conformal_Prediction.pdf)
 
 Code: [Lec 7 Notebook: Calibration](/Lec7/calibration_lab_notebook.ipynb) \
