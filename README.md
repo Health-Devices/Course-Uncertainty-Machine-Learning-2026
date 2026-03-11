@@ -104,8 +104,31 @@ Reading: An Introduction to Variational Autoencoder by D.P. Kingma and M. Wellin
 Code: [Lec 7 Notebook: Calibration](/Lec7/calibration_lab_notebook.ipynb) \
 [Lec 7 Notebook: Conformal Prediction](/Lec7/conformal_prediction_lab_notebook.ipynb)
 
-Reading:
+Reading: Kevin P. Murphy. Probabilistic Machine Learning: Advanced Topics. (Calibration + proper scoring rules, Sec. 14.2 and 14.3) \
+[Calibration Tutorial](https://github.com/luferrer/CalibrationTutorial)
+[Conformal Prediction](https://github.com/aangelopoulos/conformal-prediction)
+
 
 ---
+## [Topic 8 Sensor Fusion and Multimodal Learning](/Lec8)
+**Lecture**  
+[Lec8 Sensor Fusion and Association](/Lec8/Sensor_Fusion.pdf) \
+[Lec8 Multimodal Learning](/Lec8/MultimodalLearning.pdf)
+
+Code: [Lec 8 Notebook: Sensor Fusion and Association](/Lec8/notebook_traditional_fusion.ipynb) \
+[Lec 8 Notebook: Covariance intersection](/Lec8/ci_vs_kf.ipynb)
+
+Reading:
+Wojke, N., Bewley, A., & Paulus, D. (2017).  
+**Simple Online and Realtime Tracking with a Deep Association Metric.**  
+*2017 IEEE International Conference on Image Processing (ICIP).*  
+https://doi.org/10.48550/arXiv.1703.07402 \
+
+
+Li, X. R., & Jilkov, V. P. (2001).  
+**Survey of maneuvering target tracking: III. Measurement models.**  
+*Signal and Data Processing of Small Targets*, SPIE.
+
+
 ### Support or Contact
 [Miodrag Bolic email ](mailto:mbolic@site.uottawa.ca)
