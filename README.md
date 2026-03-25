@@ -127,11 +127,14 @@ Li, X. R., & Jilkov, V. P. (2001).
 
 ## [Topic 9 Diffusion models](/Lec9)
 **Lecture**  
-[Lec9 Diffusion Models](/Lec9/Diffusion_Models_Uncertainty_in_ML_course_2026.pdf)
+[Lec9 Diffusion Models](/Lec9/Diffusion_Models_Uncertainty_in_ML_course_2026.pdf) \
+[Lec9 Sample generated image by diffusion model
+](/Lec9/GeneratedSample.pptx)
 
 
 Code: [Lec 9 Notebook: Diffusion Models Nodebook](/Lec9/Diffusion_Session_Notebook_v2.ipynb) \
-[Lec 9 Notebook: Real DiffusionDet inference demo](/Lec9/DiffusionDet_real_inference_demo.ipynb)
+[Lec 9 Notebook: Real DiffusionDet inference demo](/Lec9/DiffusionDet_real_inference_demo.ipynb) \
+[SANA diffusion trajectory notebook](/Lec9/SANA_diffusion_trajectory_notebook.ipynb) 
 
 Reading:
 Chen, Shoufa, et al. "Diffusiondet: Diffusion model for object detection." Proceedings of the IEEE/CVF international conference on computer vision. 2023.
@@ -145,7 +148,7 @@ Chen, Shoufa, et al. "Diffusiondet: Diffusion model for object detection." Proce
 Code: [Lec 10 Notebook: Attention and Fusion](/Lec10/AttentionFusion.ipynb)
 
 Videos:\
-[Lecture 8: Attention and Transformers](https://www.youtube.com/watch?v=RQowiOF_FvQ) Stanford CS231N, Spring 2025. 
+[Attention and Transformers](https://www.youtube.com/watch?v=RQowiOF_FvQ), Lecture 8, Stanford CS231N, Spring 2025.
 
 [Multimodal Transformers](https://www.youtube.com/watch?v=90AGqQYYZc0&list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW&index=9) - Part1 and Part 2 (CMU Multimodal Machine Learning, Fall 2023)]
 
