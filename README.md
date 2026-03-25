@@ -122,6 +122,7 @@ Reading:
 Li, X. R., & Jilkov, V. P. (2001).  
 **Survey of maneuvering target tracking: III. Measurement models.**  
 *Signal and Data Processing of Small Targets*, SPIE.
+
 ---
 
 ## [Topic 9 Diffusion models](/Lec9)
@@ -143,8 +144,8 @@ Chen, Shoufa, et al. "Diffusiondet: Diffusion model for object detection." Proce
 
 Code: [Lec 10 Notebook: Attention and Fusion](/Lec10/AttentionFusion.ipynb)
 
-Videos:
-[Lecture 8: Attention and Transformers](https://www.youtube.com/watch?v=RQowiOF_FvQ) Stanford CS231N, Spring 2025. \
+Videos:\
+[Lecture 8: Attention and Transformers](https://www.youtube.com/watch?v=RQowiOF_FvQ) Stanford CS231N, Spring 2025. 
 
 [Multimodal Transformers](https://www.youtube.com/watch?v=90AGqQYYZc0&list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW&index=9) - Part1 and Part 2 (CMU Multimodal Machine Learning, Fall 2023)]
 
