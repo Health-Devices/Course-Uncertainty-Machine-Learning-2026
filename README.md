@@ -162,7 +162,7 @@ https://doi.org/10.48550/arXiv.1703.07402 \
 ## [Topic 11 Sequential decision making](/Lec11)
 **Lecture**  
 [Lec11 Decision Making Under Uncertainty](/Lec11/Ch34_Decision_Making_Under_Uncertainty.pdf) \
-[Lec11 Reinforcement Learning](/Lec11/ch_35_Reinforcement_Learning.pdf)
+[Lec11 Reinforcement Learning](/Lec11/ch_35_Reinforcement_Learning.pdf) \
 [Lec11 Deep Reinforcement Learning for UAVs](/Lec11/UAV_SAC_example.pptx)
 
 Reading:
