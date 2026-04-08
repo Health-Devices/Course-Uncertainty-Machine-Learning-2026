@@ -172,7 +172,7 @@ Reading: Kevin P. Murphy. Probabilistic Machine Learning: Advanced Topics. (Chap
 ## [Topic 12 Review](/Lec12)
 **Lecture**  
 [Lec12 Review Problems](/Lec12/FinalLectureReview.pdf) \
-[Lec12 Course Summary, Gaps and Future Directions](/FinalLectureSlides.pdf) 
+[Lec12 Course Summary, Gaps and Future Directions](/Lec12/FinalLectureSlides.pdf) 
 
 
 ---
