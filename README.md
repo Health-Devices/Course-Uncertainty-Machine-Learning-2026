@@ -139,6 +139,9 @@ Code: [Lec 9 Notebook: Diffusion Models Nodebook](/Lec9/Diffusion_Session_Notebo
 Reading:
 Chen, Shoufa, et al. "Diffusiondet: Diffusion model for object detection." Proceedings of the IEEE/CVF international conference on computer vision. 2023.
 
+Video:  
+Michael Elad, A Course on Generative AI - Diffusion Models, New Frontiers in Image Processing, 4. [Diving Deeper](https://www.youtube.com/watch?v=aPoGqE4oabc&list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ&index=5), 2024
+
 ---
 ## [Topic 10 Multimodal Learning and Attention](/Lec10)
 **Lecture**  
@@ -172,7 +175,7 @@ Reading: Kevin P. Murphy. Probabilistic Machine Learning: Advanced Topics. (Chap
 ## [Topic 12 Review](/Lec12)
 **Lecture**  
 [Lec12 Review Problems](/Lec12/FinalLectureReview.pdf) \
-[Lec12 Course Summary, Gaps and Future Directions](/Lec12/FinalLectureSlides.pdf) 
+[Lec12 Course Summary, Gaps and Future Directions](/Lec12/FinalLectureSlides.pdf)
 
 
 ---
