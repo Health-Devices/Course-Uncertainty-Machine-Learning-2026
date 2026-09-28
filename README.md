@@ -43,13 +43,16 @@ Code: [Lec 2 Notebook1](/Lec2/Gaussian_Visual_Learning_Notebook1.ipynb) \
 
 ### [Topic 3 Bayesian logistic regression, Monte Carlo Sampling](/Lec3)
 **Lecture**  
+[Lec3 Linear Algebra Short Review](/Lec3/LinearAlgebra.pdf) \
+[Lec3 Metrics and Calibration for linear regression](/Lec3/MetricsCalibration.pdf) \
 [Lec3 Bayesian Logistic regression](/Lec3/LogisticRegression.pdf) \
 [Lec3 MCMC](/Lec3/MCMC.pdf) \
 [Lec3 Langevin Monte Carlo](/Lec3/LangevinMC.pdf)
 
-Code: [Lec 3 Notebook1: Laplace Approximation + Logistic Regression](/Lec3/Laplace_Approximation_Logistic_Regression.ipynb) \
-[Lec 3 Notebook2, Markov Chains and MCMC](/Lec3/Lec3a_python_numpyro.ipynb) \
-[Lec 3 Notebook3, Drift–Diffusion Processes and Langevin Monte Carlo](/Lec3/langevin_MALA.ipynb)
+Code: [Lec 3 Notebook1: Metrics animation](/Lec3/crps_pit_explorer.ipynb) \
+[Lec 3 Notebook2: Laplace Approximation + Logistic Regression](/Lec3/Laplace_Approximation_Logistic_Regression.ipynb) \
+[Lec 3 Notebook3, Markov Chains and MCMC](/Lec3/Lec3a_python_numpyro.ipynb) \
+[Lec 3 Notebook4, Drift–Diffusion Processes and Langevin Monte Carlo](/Lec3/langevin_MALA.ipynb)
 
 Reading: Chapters 8.2 and 10 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/BayesBook.pdf)\
 [Roy Friedman, A Simplified Overview of Langevin Dynamics, 2022.](https://friedmanroy.github.io/blog/2022/Langevin/)
