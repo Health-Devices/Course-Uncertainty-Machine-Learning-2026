@@ -47,12 +47,12 @@ Code: [Lec 2 Notebook1](/Lec2/Gaussian_Visual_Learning_Notebook1.ipynb) \
 [Lec3 Metrics and Calibration for linear regression](/Lec3/MetricsCalibration.pdf) \
 [Lec3 Bayesian Logistic regression](/Lec3/LogisticRegression.pdf) \
 [Lec3 MCMC](/Lec3/MCMC.pdf) \
-[Lec3 Langevin Monte Carlo](/Lec3/LangevinMC.pdf)
+[Lec3 MCMC Part 2](/Lec3/MCMC_Part2.pdf)
 
 Code: [Lec 3 Notebook1: Metrics animation](/Lec3/crps_pit_explorer.ipynb) \
 [Lec 3 Notebook2: Laplace Approximation + Logistic Regression](/Lec3/Laplace_Approximation_Logistic_Regression.ipynb) \
 [Lec 3 Notebook3, Markov Chains and MCMC](/Lec3/Lec3a_python_numpyro.ipynb) \
-[Lec 3 Notebook4, Drift–Diffusion Processes and Langevin Monte Carlo](/Lec3/langevin_MALA.ipynb)
+[Lec 3 Notebook4, Gradient-based MCMC](/Lec3/gradient_mcmc.ipynb)
 
 Reading: Chapters 8.2 and 10 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.com/mattiasvillani/BayesianLearningBook/raw/main/pdf/BayesBook.pdf)\
 [Roy Friedman, A Simplified Overview of Langevin Dynamics, 2022.](https://friedmanroy.github.io/blog/2022/Langevin/)
@@ -65,8 +65,9 @@ Reading: Chapters 8.2 and 10 from [Villani, Mattias, (2025), Bayesian Learning.]
 [Lec4 Kalman filter](/Lec4/Kalman_filter_slides.pdf) \
 [Lec4 Particle filters](/Lec4/Particle_filter_slides.pdf)
 
-Code: [Lec 4 Notebook1: Kalman Filters](/Lec4/ssm_examples.ipynb) \
-[Lec 4 Notebook2, Particle fitlers](/Lec4/bearings_only_particle_filter.ipynb) \
+Code: [Lec 4 Notebook1: State space models](/Lec4/ssm_examples.ipynb) \
+[Lec 4 Notebook2: Kalman filters](/Lec4/KalmanFilters.ipynb) \
+[Lec 4 Notebook3, Particle fitlers](/Lec4/bearings_only_particle_filter.ipynb) \
 [Kalman and Bayesian Filters in Python by Roger Labbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 Reading:
