@@ -78,8 +78,8 @@ Chapters 17 from [Villani, Mattias, (2025), Bayesian Learning.](https://github.c
 ---
 ## [Topic 5 Variational inference](/Lec5)
 **Lecture**  
-[Lec5 Variational inference](/Lec5/VariationalInference.pdf)
-[Lec5 Variational inference](/Lec5/VariationalInference_Computational.pdf)
+[Lec5 Variational inference](/Lec5/VariationalInference.pdf) \
+[Lec5 Variational inference Computational Aspects](/Lec5/VariationalInference_Computational.pdf)
 
 Code: [Lec 5 Notebook1: VI](/Lec5/From_entropy_to_SVI2.ipynb) \
 [Lec 5 Notebook2: VI](/Lec5/VI_Computational_Notebook.ipynb) \
